@@ -1,7 +1,7 @@
 # SummaText: Abstractive Text Summarization using BART
 
 ## 📌 Project Overview
-QuickDigest is an abstractive text summarization system based on the BART transformer model.  
+SummaText is an abstractive text summarization system based on the BART transformer model.  
 It automatically generates human-like summaries of long documents while preserving meaning and context.  
 The model is trained on the CNN/DailyMail dataset and fine-tuned using Hugging Face Transformers in Google Colab.
 
